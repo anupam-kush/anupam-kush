@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anupam Kushwaha.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Groovy, Graphsql, Low-Level Designing, etc.
+- 🌱 I’m currently learning Groovy, Graphsql, Low-Level Designing and many more.
 - 💞️ I’m looking to collaborate on some impactful projects.
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
